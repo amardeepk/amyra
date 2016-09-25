@@ -1,0 +1,1584 @@
+@media only screen and (max-width:1184px){
+
+	.blog_section_footer ul li {
+	  margin-right: 10px;
+	}
+
+	html {
+		-webkit-text-size-adjust: 100%; /* Prevent font scaling in landscape while allowing user zoom */
+	}
+	.container{
+		width:100%;
+		padding:0 20px;	
+	}
+	.newsbox {
+		margin: 25px -13px 0;
+	}
+	.newsbox1, .newsbox2, .newsbox3{
+		margin-right:0;	
+		padding-left:25px;
+	}
+	.press li:nth-child(2){
+		width:72%;	
+	}
+	.press li img{
+		margin-top:6px;	
+	}
+	.contact-left ul li{
+		font-size: 14px;
+		padding: 0 10px 15px;
+	}
+	.header-bottom li a{
+	line-height: 28px;
+		padding: 10px 8px 10px 8px;
+	}
+	.current-opening ul li:nth-child(2n+1), .current-opening ul li{
+		width: 49.5%;
+		min-height:295px;
+	}
+	.inner-banner2{
+		height:250px;
+	}
+	.container2{
+		width:50%;
+		float:left;
+		padding:0 30px;
+	}
+	.container-form{
+		width:100%;
+		float:none;
+	}
+	.board-group-left, .board-group-right{
+		min-height:400px;
+		width:48.5%;
+	}
+	.about-us ul li{
+		width:49.7%;
+	}
+	.great-reasons{
+		width:30%;
+		padding-right:1%;
+	}
+	.great-reasons-right{
+		width:69%
+	}
+	.accreditation-left {
+		float: left;
+		width: 40%;
+		margin-bottom:20px;
+		text-align:center;
+		margin:20px 10px 0 0;
+	}
+	.accreditation-left img{
+		width:90%;
+	}
+	.accreditation-right {
+		float: left;
+		margin: 0 auto;
+		text-align: center;
+		width: 60%;
+	}
+	.direct-to-dentist {
+		padding: 20px;
+	}
+	.no-babus {
+		margin-right: 10px;
+		width: 250px;
+	}
+	.no-babus-right{
+		width:70%;
+		padding:30px 0;
+	}
+	.no-babus-right h3{
+		margin:10px auto
+	}
+	.no-babus-right p{
+		margin-bottom:0px;
+	}
+	.ourservice figure span{
+		display:block;
+	}
+	.container2{
+		width:100%;
+		float:none;
+		padding:0 30px;
+	}
+	.form-left{
+		width:100%;
+		float:none;
+	}
+	.appoinment ul li:nth-child(1){
+		width:50%;
+		padding: 0 10px 0 0;
+	}
+	.appoinment ul li:nth-child(2){
+		text-align:right;
+		width:50%;
+		padding: 0 0 0 10px;
+	}
+	.appoinment input, .appoinment textarea{
+		width:100%;
+		padding: 0 8px;
+	}
+	.appoinment .submit{
+		width:100%;
+	}
+	.map-right{
+		width:100%;
+	}
+	.customdropdown:after{
+		display:none;
+	}
+	select#appointment_time{
+		width:100%;
+		max-width:100%;
+	}
+}
+
+@media only screen and (max-width:1023px){
+
+
+/*
+ * BY-ANIL
+ */
+	.blog_section_footer ul li {
+	  float: left;
+	  width: 48%;
+	  margin-right: 15px;
+	}
+	
+	.blog_section_footer ul li:nth-child(2) {
+		margin-right: 0px;
+	}
+	
+	.blog_section_footer .blog_image_div{
+		height: 250px;
+	}
+
+/*
+ * BY-ANIL
+ */
+ 
+ 
+	.menu_handler{
+		display:block;	
+		float: none;
+		padding: 10px 0;
+		color: #333;
+		font-size:13px;
+		text-transform:uppercase;
+	}
+	.inner-banner{
+		height:300px;
+		border-bottom:10px solid #432515;
+	}
+	.menu_handler span{
+		display:inline-block;
+		width:10px;
+		height:10px;
+		background: url(../images/menuicon.png) no-repeat center center;
+		margin-right: 5px;
+	}
+	.header-bottom {
+		text-align: left;
+		width: 100%;
+	}
+	.header-bottom ul ul li{
+		width:100%;
+		float:left;
+	}
+	.header-bottom li a{
+		padding:10px 10;
+		float:left;
+		width:100%;
+	}
+	.header-bottom li {
+		margin: 0 0px;
+		
+	}
+	.header-bottom ul li:hover ul{
+		padding:0;
+		width:100%;
+	}
+	.header-bottom  .top-left.fl{
+		float:right;	
+	}
+	.header-bottom .top-left.fl ul{
+		text-align:right;
+	}
+	.header-bottom .top-left.fl ul li{
+		text-align:left;
+	}
+	.mainmenu{
+		display:none;	
+	}
+	.mainmenu ul li{
+		float:none;
+		width:100%;
+	}
+	
+	.header-top .top-left{
+		width:45%;
+	}
+	.header-top .top-right{
+		width:55%;
+	}
+	.ourservice li, .services-inner li, .categories-inner li{
+		width:33.333%;
+		margin-bottom: 10px;
+	}
+	.newsdetail .bx-viewport {
+		/*min-height: 45px;*/
+	}
+	.newsdetail .bx-viewport li p{
+		max-width:700px;
+	}
+	.newsdetail{
+		width:100%;	
+	}
+	.categories-menu ul li a{
+		padding: 0 30px;	
+	}
+	.header-bottom .top-right.fr{
+		float:left;
+		width:100%;	
+	}
+	.header-bottom .top-right.fr li{
+		text-align:left;	
+	}
+	.header-bottom .top-right li a{
+		padding: 5px 0 5px 0;
+	}
+	section.header-bottom .container {
+		padding-left:25px;	
+	}
+	#parallelogram { 
+		position:absolute;
+		left:18%;
+		width: 200px;
+		min-height: 100px;
+		-webkit-transform: skew(-20deg);
+		-moz-transform: skew(-20deg);
+		-o-transform: skew(-20deg);
+		background:#432515;
+	}
+	.slider h1{
+		font-size:22px;
+		color:#fff;
+		font-family:'OpenSans-Light';
+		font-weight:normal;
+		position:absolute;
+		top:39%;
+		left:28%
+	}
+	.header-bottom ul ul{
+		/*position:relative;
+		top:auto;
+		left:auto;
+		display:none; */
+		width: 100%;
+		margin: 0;
+    	padding: 0;
+	}
+	.header-bottom ul li:hover ul {
+		display: none;
+	}
+	.header-bottom ul ul:before{
+		display:none;
+		left: 0;
+		position: fixed;
+		top: 0px;	
+	}
+	.header-bottom li:first-child {
+		margin-left:0px;
+		float:left;
+	}
+	.header-bottom ul li:first-child ul li {
+		width: 100%;
+		float:left;
+	}
+	.header-bottom ul ul li a {
+		border-bottom: 1px dashed #907668;
+		color: #fff;
+		margin: 0 auto;
+		width: 100%;
+		background:#432515;
+		padding:10px 20px;
+	}
+	.header-bottom ul ul{
+		position: static;
+	}
+	.header-bottom ul li ul:before {
+		border-bottom: 0px solid #432515 !important;
+		border-left: 0px solid transparent !important;
+		border-right: 0px solid transparent !important;
+		content: "";
+		display: block;
+		left: 0%;
+		position: static !important;
+		top: 0px;
+	}
+	.header-bottom ul li:last-child ul:before {
+		border-bottom: 0px solid #432515 !important;
+		border-left: 0px solid transparent !important;
+		border-right: 0px solid transparent !important;
+		content: "";
+		display: block;
+		left: 0%;
+		position: static !important;
+		top: 0px;
+	}
+	span.plus {
+	background: url("../images/plus.png") no-repeat scroll right top rgba(0, 0, 0, 0);
+	display: block;
+	height: 48px;
+	line-height: 48px;
+	position: absolute;
+	right: 0px;
+	top: 0;
+	width: 80px;
+	z-index: 99;
+	text-align: right;
+	border-left: 1px solid #fff;
+	}
+	.credibility-left{
+		width:100%;
+		min-height: 0;
+		height:auto;
+		margin-top:0px;
+	}
+	.credibility-right{
+		width:100%;
+		margin-bottom:0px;
+	}
+	.credibility-img{
+		width:100%;
+	}
+	.about-cont p {
+		font-size: 13px !important;
+	}
+	.board-group-right {
+		margin: 0 0 20px !important;
+	}
+	.current-opening ul li:nth-child(2n+1), .current-opening ul li{
+		width: 49.5%; height:395px;
+	}
+	.container2{
+		width:100%;
+		float:none;
+		padding:0 30px;
+	}
+	.container-form{
+		width:100%;
+		float:none;
+	}
+	.about-us ul li{
+		min-height:777px;
+	}
+	.accreditation-left img{
+		width:50%;
+	}
+		.lefim {
+    height: 300px;
+}
+	
+	.righttex p {
+    font-size: 17px;
+    
+}
+}
+
+@media only screen and (max-width:768px){
+
+
+	/*
+ * BY-ANIL
+ */
+	.blog_section_footer ul li {
+	  float: left;
+	  width: 48%;
+	  margin-right: 15px;
+	}
+	
+	.blog_section_footer ul li:nth-child(2) {
+		margin-right: 0px;
+	}
+	
+	.blog_section_footer .blog_image_div{
+		height: 190px;
+	}
+.popular-blog, .blog-listing, .bloglist .blog_image, .bloglist .blog_content{
+	width:100%;
+}
+.popular-blog h2{
+	margin-bottom:10px;
+}
+.popular-blog .blog-small, .popular-blog .diva {
+  width: 100px;
+  float: left;
+  margin-right: 20px;
+}
+/*
+ * BY-ANIL
+ */
+ 
+ 
+
+	.content select{width:320px;height:32px;margin:15px 0 20px 0; float:right;}
+	.content li span {color: #fff;display: inline-block;float: left;font-size: 17px;line-height: 31px;text-align: center;width: 100%; padding-top:15px; margin-top:0px;}
+	
+	.call-us-contant img{
+		margin-bottom:20px;
+	}
+	.inner-banner{
+		height:280px;
+		border-bottom:5px solid #432515;
+	}
+	.call-us {
+		background: none repeat scroll 0 0 #573b2c;
+		margin: 40px 0;
+	}
+	.content select {
+		float: none;
+		height: 32px;
+		margin: 15px 10px;
+		width: 100%;
+	}
+	.bxslider li{
+		height:250px;	
+	}
+	.ourservice h1 {
+		color: #573b2c;
+		padding: 25px 0 20px;
+	}
+	.ourservice p{
+		width:100%;
+	}
+	.form-left{
+		width:100%;
+		float:none;
+	}
+	.appoinment ul li:nth-child(1){
+		width:50%;
+		padding: 0 10px 0 0;
+	}
+	.appoinment ul li:nth-child(2){
+		text-align:right;
+		width:50%;
+		padding: 0 0 0 10px;
+	}
+	.appoinment input, .appoinment textarea{
+		width:100%;
+		padding: 0 8px;
+	}
+	.appoinment .submit{
+		width:100%;
+	}
+	.map-right{
+		width:100%;
+	}
+	.call{
+		width:100%;
+	}
+	.about-top{
+		padding:10px 0 20px;
+	}
+	.about-us h1{
+		width:50%;
+	}
+	.about-us p{
+		padding:10px;
+		margin-bottom:15px;
+	}
+	.about-us ul li{
+		width:50%;
+		min-height:740px;
+		margin:0 0 2px;
+	}
+	.about-us ul li:nth-child(odd){
+		margin-right:2px;
+		width:49.5%;
+	}
+	.about-right {
+		float: right;
+		height: 364px;
+		width: 49.8%;
+	}
+	.about-left {
+		float: left;
+		height: 364px;
+		width: 49.8%;
+	}
+	.board-group-left, .board-group-right{
+		float: none;
+		margin: 0 0px 20px 0;
+		min-height: 0;
+		height:auto;
+		padding: 13px;
+		width: 100%;
+	}
+	.page-id-28 .community-outreach-gray{
+		padding:0 0 30px;
+	}
+	.testimonials-video-inner:last-of-type .testimonials-video-left, .testimonials-video-inner:last-of-type .testimonials-video-right{
+		width:100%;
+		min-height:0;
+		height:auto;
+	}
+	.accreditation-left {
+		float: left;
+		width: 100%;
+		margin-bottom:20px;
+		text-align:center;
+		margin-top:0px;
+	}
+	.accreditation-right {
+		float: left;
+		margin: 0 auto;
+		text-align: center;
+		width: 100%;
+	}
+	.contact-left{
+		width:100%;
+		text-align:center;
+		float:none;
+	}
+	.contact-right{
+		width:100%;
+	}
+	.inner-banner2{
+		height:200px;
+	}
+	.direct-to-dentist {
+		padding: 20px;
+	}
+	.no-babus {
+		margin-right: 10px;
+		width: 220px;
+	}
+	.no-babus-right{
+		width:65%;
+		padding:0;
+	}
+	.no-babus-right h3{
+		margin:10px auto
+	}
+	.no-babus-right p{
+		margin-bottom:0px;
+	}
+	
+	.packages li {
+		list-style: none;
+		display: inline-block;
+		float:left;
+		text-align: left;
+		width: 100%;
+		background:#f3f3f3;
+		margin-bottom:3px;
+		min-height:10px;
+		height:auto;
+	}
+	.packages p span{
+		margin:0px;
+	}
+	.packages div span{
+		margin-top:0px;
+	}
+	.packages div ul{
+		overflow:visible;
+		background:#F3F3F3;
+		margin-top:0px;
+	}
+	.happy-patients-right{
+		width: 100%;
+	}
+	.happy-patients-cont {
+		width: 100%;
+	}
+	
+		.lefim {
+    height: 220px;
+}
+	
+	.righttex p {
+    font-size: 13px;
+    
+}
+.clove-experience-left{
+		width:100%;
+		float:none;
+		margin-bottom:10px;
+		min-height:0;
+		height:auto;
+	}
+	.clove-experience-right{
+		width:100%;
+		float:none;
+		margin-bottom:10px;
+	}
+	.clove-experience-right img{width:100%;display:block;}
+}
+@media only screen and (max-width:767px){
+	.bxslider li{
+		height:280px;	
+	}
+	.news .newsdetail li p{
+		display:inline-block;
+		padding:0;
+	}
+	.inner-banner{
+		height:280px;
+	}
+	.bxslider li img{
+		max-width:80%;	
+		margin-left:0;
+		left:10%;
+	}
+	.bx-wrapper .bx-controls-direction a{display:none;}
+	.header-top{
+		padding:10px 0;	
+	}
+	.welcome .bottom-links li {
+    	padding: 10px 0 10px;
+	}
+	.appoinment select{
+		width:100%;
+		max-width:375px;	
+	}
+	.newsbox1, .newsbox2, .newsbox3{
+		width:100%;
+		border-right:0;	
+	}
+	.ourservice h1{
+		padding:40px 0 20px;	
+	}
+	.ourservice p, .services p{
+		width:100%;	
+	}
+	.ourservice li, .services-inner li, .categories-inner li, .testimonials-inner li{
+		width:100%;
+		margin-bottom: 20px;
+		padding: 0;
+		border-bottom:1px solid #ccc;
+		padding:20px 0px;
+	}
+	.ourservice li:last-child{
+		padding:15px 0px 20px; border-bottom:0px;
+	}
+	.ourservice {
+    	padding-bottom: 0px;
+	}
+	.welcome .bottom-links li a{
+		font-size:11px;
+		padding:0 5px;	
+	}
+	.appoinment ul li:nth-child(1), .appoinment ul li:nth-child(2){
+		padding:0;	
+		width:100%;
+	}
+	.appoinment input, .appoinment textarea{
+		width:100%; letter-spacing:2px !important;	
+	}
+	.newsdetail .bx-viewport {
+		/*min-height: 45px;*/
+	}
+
+	.slider img{
+		width:100%;
+		height:auto;	
+	}
+	.categories-menu ul li a{
+		padding: 0 10px;	
+		font-size:12px;
+	}
+	.media-left, .media > .pull-left { clear:both; display:block; width:100%}	
+	.media-body {display: inline-block;width: 100%;float: none;vertical-align: middle;}
+	.community-outreach-gray span {display: table-cell;float: right; margin: 20px auto 0px auto; vertical-align: middle; width: 100%;}
+	.community-outreach-gray span p{width:100%}
+	
+	.footerlinks {
+    color: #999999;
+    margin: 0 auto;
+    text-align: center;
+    width: 100%;
+	}
+	.footerlinks a {
+    color: #999999;
+    font-size: 11px;
+    padding-right: 8px;
+	}
+	.international-patients-img{float:left; padding-right:20px; width:100%;}
+	.international-patients ul{display:inline-block; text-align:left; float:left; width:100%}
+	.content li{width:100%;margin:0px 0px 25px 0px;}
+	.content h3 {margin-bottom: 0;margin-top:15px;padding-bottom: 10px;line-height:31px;}
+	.content li h4{line-height:30px;margin-top:20px;margin-bottom: 0;padding-bottom: 0px;text-align: center;}
+	.content li span {
+		color: #fff;display: 
+		inline-block;
+		float: left;
+		font-size: 17px;
+		line-height: 31px;
+		text-align: center;
+		width: 100%; 
+		line-height: 22px;
+    	margin-top: 0;
+    	padding-top: 0;
+	}
+	.content li:last-child{padding:15px; border-left:0px solid #ccc;	}
+	.content select{width:100%;height:32px;margin:15px 0 0px 0; float:none;}
+	.call-us-contant img{float:left; padding-right:30px; text-align:center;}
+	.technology ul li{
+		width:100% !important;
+	}
+	.appoinment address {
+		padding: 15px 0 30px;
+		width: 98%;
+	}
+	.appoinment {
+		padding: 00px 0 00px;
+	}
+	.inner-banner img{
+		border-bottom:5px solid #432515;
+	}
+	.technology ul li{
+		width:50% !important;
+	}
+	.international-patients ul li{
+		color: #573b2c;
+		float: left;
+		padding-right: 0px;
+		text-align: left;
+		transition: all 0.4s linear 0s;
+		width: 100%;
+		padding-right:30px;
+		margin:25px auto 0px;
+		display:table-caption;
+	}
+	.about-top{
+		padding:10px 0 20px;
+	}
+	.about-us h1{
+		width:100%;
+	}
+	.about-us p{
+		padding:10px;
+		margin-bottom:15px;
+	}
+	.about-us ul li{
+		width:100%;
+		min-height:0;
+		height:auto;
+		margin:0px 0 10px;
+		padding-bottom:10px;
+	}
+	.about-us ul li:nth-child(odd){
+		margin:0px 0 10px;
+		width:100%;
+		padding:0 0 15px;
+	}
+	.about-us ul li:last-child{
+		padding:0 0 15px;
+	}
+	.board-group{
+		margin-top:30px;
+	}
+	.about-left{
+		float:left;
+		width:100%;
+		height: auto;
+		display:block;
+		margin-bottom:10px;
+	}
+	.about-right{
+		float:left;
+		width:100%;
+		height: auto;
+		display:block;
+	}
+	.credibility-left{
+		width:100%;
+		min-height: 0;
+		height:auto;
+		margin-top:10px;
+	}
+	.credibility-right{
+		width:100%;
+		margin-bottom:0px;
+	}
+	.credibility-img{
+		width:100%;
+	}
+	.testimonials-video-left, .testimonials-video-right{
+		width:100%;
+		margin:0 0 1px;
+		min-height:0;
+		height:auto;
+	}
+	.testimonials-inner ul li{
+		width:100%;
+		padding:15px;
+		background-image:none;
+		border:none;
+	}
+	.accreditation-left {
+		float: left;
+		width: 100%;
+		margin-bottom:20px;
+		text-align:center;
+	}
+	.accreditation-right {
+		float: left;
+		margin: 0 auto;
+		text-align: center;
+		width: 100%;
+	}
+	.news .newsdetail li p{
+		display:block;
+	}
+	.news .newsdetail li a{
+		display:block;
+	}
+	div#map_wrapper{
+		height:300px!important;
+	}
+	.board-group-cont h5 span{
+		text-align:left;
+	}
+	.happy-patients-right{
+		width: 100%;
+	}
+	.happy-patients-cont {
+		width: 100%;
+	}
+	.pressnews li {
+		width: 100%;
+		margin-bottom:20px;
+	}
+	.pressnews li:nth-child(odd) {
+		padding-right:0px;
+	}
+	.pressnews li:nth-child(even) {
+		padding-left:0px;
+	}
+	
+	.lefim {
+    height: 220px;
+}
+	
+	.righttex p {
+    font-size: 13px;
+    
+}
+
+.clove-experience-left{
+		width:100%;
+		float:none;
+		margin-bottom:10px;
+		min-height:0;
+		height:auto;
+	}
+	.clove-experience-right{
+		width:100%;
+		float:none; margin:0 auto;
+		margin-bottom:10px;
+	}
+	.clove-experience-right img{width:100%;display:block;}
+}
+
+@media only screen and (max-width:640px){
+
+	/*
+ * BY-ANIL
+ */
+	.blog_section_footer ul li {
+	  float: left;
+	  width: 100%;
+	  margin-right: 0px;
+	}	
+	
+	.blog_section_footer .blog_image_div{
+		height: auto;
+	}
+
+/*
+ * BY-ANIL
+ */
+
+
+	.welcomedetail p{
+		font-size:15px;
+	}
+	.clove-experience-left{
+		width:100%;
+		float:none;
+		margin-bottom:10px;
+		min-height:0;
+		height:auto;
+	}
+	.clove-experience-right{
+		width:100%;
+		float:none;
+		margin-bottom:10px;
+	}
+	.clove-experience-cont {
+		margin: 0 auto;
+		padding: 15px 0;
+		width: 100%;
+	}
+	.clove-experience-cont h3{
+		padding:0 15px 15px;
+		margin:0;
+		line-height:30px;
+	}
+	.clove-experience-cont p {
+		font-size: 14px;
+		line-height: 22px;
+		margin-bottom: 15px;
+	}
+	.clove-experience-cont span{
+		padding:0 15px;
+		font-size:14px;
+		line-height:22px;
+	}
+	.clove-experience-cont span a{
+		margin-top:10px;
+	}
+	.direct-to-dentist {
+		padding: 10px 10px;
+		text-align: center;
+	}
+	.no-babus {
+		float: none;
+		margin:10px auto;
+		width: 50%;
+	}
+	.no-babus-right{
+		width:100%;
+	}
+	.no-babus-right h3{
+		margin:10px auto;
+	}
+	.no-babus-right p{
+		margin-bottom:0;
+		font-size:14px;
+		line-height:22px;
+	}
+	.technology-landding{
+		padding:15px 30px;
+	}
+	.hygiene-headeing{
+		padding:0 15px 0 0;
+	}
+	.hygiene-headeing-pic{
+		width:40%;
+		float:left;
+	}
+	.hygiene-headeing-right{
+		width:60%;
+	}
+	.hygiene-headeing h3{
+		margin:10px auto;
+		line-height:30px;
+	}
+	.hygiene-headeing p{
+		font-size:13px;
+		line-height:22px;
+		margin-bottom:10px;
+	}
+	.hygiene-headeing a{
+		margin: 0px 0 10px;
+	}
+	.media-left{
+		width:30%;
+		float:left;
+	}
+	.postid-92 .community-outreach-gray-cont{
+		float:left;
+		width:70%;
+	}
+	.great-reasons {
+		border-bottom: 1px solid #ccc;
+		float: none;
+		width: 100%;
+		border-right:none;
+		padding-bottom: 10px;
+		text-align:center;
+	}
+	.great-reasons-right {
+		width: 100%;
+	}
+	.great-reasons-right p {
+		padding: 0 10px;
+	}
+	.international-patients ul li img{
+		width:100%;
+	}
+	.international-patients ul li{
+		padding-right:0;
+	}
+	.testimonials-video-left, .testimonials-video-right{
+		width:100%;
+		margin:0 0 1px;
+		min-height:0;
+		height:auto;
+	}
+	.testimonials-inner ul li{
+		width:100%;
+		padding:15px;
+		background-image:none;
+		border:none;
+	}
+	
+	.current-opening ul li:nth-child(2n+1), .current-opening ul li{
+		margin: 0 0 3px;
+		width: 100%;
+	}
+	.qualification{
+		width:100%;
+	}
+	.inner-banner2{
+		height:130px;
+	}
+	.inner-banner2:before {
+		border-left: 10px solid transparent;
+		border-right: 10px solid transparent;
+		border-top: 10px solid #dac8bf;
+		bottom: -10px;
+	}
+	.abt-clove{
+		width:100%;
+	}
+	.welcome .top-link li{
+		padding:14px;
+	}
+	.welcome .bottom-links li{
+		display:block;
+	}
+	.welcome .bottom-links li a{
+		border:none;
+	}
+}
+
+@media only screen and (max-width:480px){
+
+	/*
+ * BY-ANIL
+ */
+	.blog_section_footer ul li {
+	  float: left;
+	  width: 100%;
+	  margin-right: 0px;
+	}	
+	
+	.blog_section_footer .blog_image_div{
+		height: auto;
+	}
+
+/*
+ * BY-ANIL
+ */
+
+
+	.categories-menu ul li a{
+		padding: 0 5px;	
+		font-size:11px;
+	}
+	.header-bottom .top-left.fl, .header-top .top-left.fl{
+		width:100px;	
+	}
+	.header-bottom .top-left.fl{
+		width:170px;	
+	}
+	.top-right.fr .contactinfo{
+		padding-left:0;	
+		padding-top:0;
+	}
+	.bxslider li{
+		height:200px;
+	}
+	.inner-banner{
+		height:180px;
+	}
+	.ourservice {
+		padding-bottom: 0;
+	}
+	.ourservice p{
+		width:100%;
+	}
+	.ourservice li, .services-inner li, .categories-inner li{
+		width:100%;
+	}
+	.form-left, .map-right{
+		width:100%;
+		float:none;
+		display:block;
+	}
+	.map-right{
+		margin-top:00px;
+	}
+	div#map_wrapper{
+		height:300px!important;
+	}
+	select#appointment_time{
+		width:100%;
+		max-width:100%;
+	}
+	.appoinment select{
+		width:100%!important;
+	}
+	.appoinment address{
+		width:100%;
+		text-align:center;
+	}
+	.appoinment ul li:nth-child(1), .appoinment ul li:nth-child(2){
+		width:100%;
+		float:none;
+		text-align:center;
+	}
+	.appoinment input, .appoinment textarea{
+		width:100%;
+	}
+	.appoinment .submit{
+		width:100%;
+		float:none;
+	}
+	/*.press li:nth-child(1) {
+    width: 29%;
+	}
+	.press li:nth-child(2) {
+    width: 69%;
+	}*/
+	.newsbox1, .newsbox2, .newsbox3 {
+    float: none;
+    width: 100%;
+	padding:0 15px;
+	}
+	.bx-wrapper .bx-controls-direction a{
+		display:none!important;
+	}
+	.technology ul li{
+		width:100% !important; padding-right:0px;
+	}
+	.fix-ppointment{
+		width:100%
+	}
+	.content li:last-child{
+		padding:0px;
+	}
+	.content select{
+		width:100%;
+	}
+	.content li{
+       width:100%
+	}
+	.call {
+		background: none repeat scroll 0 0 #4b3123;
+		color: #fff;
+		font-size: 15px;
+		margin-bottom: 30px;
+		margin-top: 30px;
+		padding: 20px 30px;
+		width: 100%;
+		text-align:center;
+	}
+	.call-us-contant img {
+		display: block;
+		float: none;
+		margin: 0 auto;
+	}
+	.call-us{
+		margin 40px 0;
+	}
+	.appoinment ul li h3 {
+		font-family: "OpenSans-Light";
+		font-size: 20px;
+		font-weight: normal;
+		margin-bottom: 15px;
+		text-align: center;
+	}
+	.great-reasons {
+		border-bottom: 1px solid #ccc;
+		float: none;
+		width: 100%;
+		border-right:none;
+		padding-bottom: 10px;
+	}
+	.great-reasons-right {
+		width: 100%;
+	}
+	.great-reasons-right p {
+		padding: 0 10px;
+	}
+	.international-patients{
+		display:block;
+	}
+	.international-patients ul li{
+		width:100%;
+		padding-right:0;
+	}
+	.international-patients ul li:last-child{
+		padding:0;
+	}
+	.international-patients-call p span {
+		color: #f6841f;
+		font-family: "open_sanssemibold";
+		float:none;
+	}
+	.about-top{
+		padding:10px 0 5px;
+	}
+	.about-us h1{
+		width:100%;
+	}
+	.about-us p{
+		padding:10px;
+		margin-bottom:0;
+	}
+	.about-us ul li{
+		width:100%;
+		min-height:0;
+		margin:0 0 10px ;
+		padding:0 0 15px;
+		padding-bottom:10px;
+		height:auto;
+	}
+	.about-us ul li:nth-child(odd){
+		margin:0 0 10px;
+		width:100%;
+	}
+	.about-us ul li:last-child{
+		padding:0 0 15px;
+	}
+	.clove-experience-left, .clove-experience-right{
+		float:none;
+		width:100%;
+		clear:both;
+		margin-bottom:10px;
+		min-height:0;
+		height:auto;
+	}
+	.direct-to-dentist {
+		background: none repeat scroll 0 0 #efeeec;
+		padding: 20px;
+	}
+	.no-babus {
+		float: none;
+		margin-right: 0px;
+		width: 100%;
+	}
+	.no-babus-right{
+		float:none;
+		width:100%;
+	}
+	.technology-landding {
+		padding: 30px 15px;
+		text-align: center;
+	}
+	.hygiene-headeing-pic, .hygiene-headeing-right{
+		float:none;
+		width:100%;
+	}
+	.hygiene-headeing h3{
+		margin:20px 0
+	}
+	.hygiene-headeing-right{
+		padding:0 15px;
+	}
+	.transparency-left, .post-treatment-right{
+		width:100%;
+		float:none;
+		margin-bottom: 10px;
+	}
+	.transparency-left{
+		border-bottom:1px solid #e7a55e;
+	}
+	.board-banner h3{
+		font-size:24px;
+	}
+	.board-group-left, .board-group-right{
+		float:none;
+		width:100%;
+		margin:0 0 10px 0;
+	}
+	.testimonials-video-left, .testimonials-video-right{
+		width:100%;
+		margin:0 0 1px;
+		min-height:0;
+		height:auto;
+	}
+	.testimonials-inner ul li{
+		width:100%;
+		padding:15px;
+		background-image:none;
+		border:none;
+	}
+	.accreditation-left {
+		float: left;
+		width: 100%;
+		margin-bottom:20px;
+		text-align:center;
+	}
+	.accreditation-right {
+		float: left;
+		margin: 0 auto;
+		text-align: center;
+		width: 100%;
+	}
+	.call-us-cont img {
+		float: left;
+		padding-right: 30px;
+		max-width:100%;
+	}
+	.transparency {
+		background: none repeat scroll 0 0 #f6841f;
+		color: #fff;
+		padding: 20px 0 20px;
+		text-align: center;
+	}
+	
+	.customdropdown {
+		border: 0px solid #888;
+		height: 30px;
+		position: relative;
+		width:100%;
+		margin:0 0 20px 0px;
+		display:inline-block;
+		background:#fff;
+	}
+	.customdropdown select{
+		border:0;
+		width:285px;
+		height:30px;
+		color:#888;
+	}
+	.customdropdown:after {
+		display:none;
+	}
+	.contact-left{
+		width:100%;
+		text-align:center;
+		float:none;
+	}
+	.contact-right{
+		margin-top:15px;
+		width:100%;
+	}
+	.contact-left ul li{
+		float:none;
+		padding:10px 0;
+	}
+	.contact-form-left, .contact-form-right{
+		float:none;
+		width:100%;
+		margin:0 0 10px 0;
+	}
+	.current-opening ul li:nth-child(2n+1), .current-opening ul li{
+		margin: 0 0 3px;
+		width: 100%;
+	}
+	
+	.qualification, .qualification-inner{
+		width:100%;
+	}
+	.inner-banner2{
+		height:100px;
+	}
+	.inner-banner2:before {
+		border-left: 10px solid transparent;
+		border-right: 10px solid transparent;
+		border-top: 10px solid #dac8bf;
+		bottom: -10px;
+	}
+	.accreditation-left img{
+		width:80%;
+	}
+	.welcome .top-link li {
+		margin: 0 auto;
+		padding: 15px;
+		width: 49%;
+	}
+	.footerlinks ul li {
+		display: block;
+		padding: 5px 0;
+		text-align: center;
+	}
+	
+	.packages li {
+		list-style: none;
+		display: inline-block;
+		float:left;
+		text-align: left;
+		width: 100%;
+		background:#f3f3f3;
+		margin-bottom:3px;
+		min-height:100px;
+	}
+	
+.lefim {
+    height: 150px;
+    background-position: 10px 0;
+    float: right;
+    height: 136px; 
+    width: 100%;
+}
+
+section.inner-banner.whim .container {
+    display: block;
+    align-items: center;
+}
+.lefim {
+    height: 150px;
+    background-position: 10px 0;
+    float: none; 
+     width: 100%;
+     display:block;
+}
+.righttex {
+    max-width: 100%;
+    display: block; 
+    vertical-align: middle; 
+    float: left;
+}
+.righttex p {
+    font-size: 16px;
+    padding: 5px 2px;
+    margin-top: 4px;
+}
+.inner-banner {
+    height: 180px;
+}
+section.why-implants h3 {
+    font-size: 20px;
+}
+section.cloveimplant p {
+    font-size: 14.5px;
+    }
+	
+	h3.whyclove span {
+    font-size: 20px;
+    }
+	section.whyimplantlist ul {
+    font-size: 14px;
+    line-height: 21px;
+	}
+	span.tak {
+    background-color: rgba(0, 0, 0, 0.11);
+    font-size: 14px;
+    line-height: 21px;
+    }
+	.nexttak h2 {
+    font-size: 20px;
+    }
+	.nexttak ul li {
+    font-size: 14px;
+    line-height: 22px;
+	}
+	.details {
+    padding: 16px 19px;
+    font-size: 13px;
+   }
+   h3.whyclove span {
+    font-size: 20px;
+  padding: 0px 9px;
+    }
+	h3.whyclove span span.italic {
+	font-size: 20px;
+    padding: 0px 11px
+ }
+	.righttex > p:nth-child(1) {
+    padding: 5px 5px!important;
+}
+.media-news li {
+    display: inline-block;
+    margin: 0 10px 40px 0;
+    width: 100%;
+    vertical-align: top;
+}
+}
+
+/* Responsive Table start*/
+/* 
+Max width before this PARTICULAR table gets nasty
+This query will take effect for any screen smaller than 760px
+and also iPads specifically.
+*/
+@media 
+only screen and (max-width: 760px),
+(min-device-width: 768px) and (max-device-width: 1024px)  {
+
+	/* Force table to not be like tables anymore */
+	table, thead, tbody, th, td, tr { 
+		display: block; 
+	}
+	
+	/* Hide table headers (but not display: none;, for accessibility) */
+	thead tr { 
+		position: absolute;
+		top: -9999px;
+		left: -9999px;
+	}
+	
+	tr { border: 1px solid #000; }
+	
+	td { 
+		/* Behave  like a "row" */
+		border: none;
+		border-bottom: 1px solid #000; 
+		position: relative;
+		padding-left: 50%; 
+	}
+	
+	td:before { 
+		/* Now like a table header */
+		position: absolute;
+		/* Top/left values mimic padding */
+		top: 6px;
+		left: 6px;
+		width: 45%; 
+		padding-right: 10px; 
+		white-space: nowrap;
+	}
+	
+	/*
+	Label the data
+	*/
+	td:nth-of-type(1):before { content: "Doctor Name"; }
+	td:nth-of-type(2):before { content: "Location & Address"; }
+	td:nth-of-type(3):before { content: "Speciality"; }
+	td:nth-of-type(4):before { content: "Mobile Number"; }
+	td:nth-of-type(5):before { content: "Get Directions"; }
+	td:nth-of-type(6):before { content: "Book An Appointment"; }
+}
+
+@media 
+only screen and (max-width: 760px),
+(min-device-width: 769px) and (max-device-width: 799px)  {
+	.packages li {
+		list-style: none;
+		display: inline-block;
+		float:left;
+		text-align: left;
+		width: 100%;
+		background:#f3f3f3;
+		margin-bottom:3px;
+		min-height:100px;
+	}
+}
+
+/* Smartphones (portrait and landscape) ----------- 
+@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 480px) {
+	body { 
+		padding: 0; 
+		margin: 0; 
+		width: 320px; }
+	}
+*/
+/* iPads (portrait and landscape) ----------- 
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+	body { 
+		width: 100%; 
+	}
+}*/
+/* Responsive Table End*/

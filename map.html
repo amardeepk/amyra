@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script type="text/javascript"
+    src="http://maps.google.com/maps/api/js?sensor=false">
+</script>
+<script type="text/javascript">
+  function initialize() {
+    var position1 = new google.maps.LatLng(28.4938246,77.0947008);
+    var myOptions = {
+      zoom: 12,
+      center: position1,
+      mapTypeId: google.maps.MapTypeId.ROADMAP
+    };
+    var map = new google.maps.Map(
+        document.getElementById("map_canvas"),
+        myOptions);
+ 
+    var marker1 = new google.maps.Marker({
+        position: position1,
+        map: map,
+        title:"This is the place."
+    });  
+    
+    var contentString = '<strong>Amyra Aesthetics Clinic-1<br>U-11/45,46 DLF City ,Phase-3 <br>near Rapid Metro Station Phase-3 , Gurgaon-122002</strong>!';
+    var contentString1 = '<strong>Amyra Aesthetics Clinic-2<br>K-4 ,Shiv Murti Complex , Mahipalpur<br>New Delhi , Delhi-110037</strong>!';
+
+    var infowindow = new google.maps.InfoWindow({
+        content: contentString
+    });
+    var infowindow1 = new google.maps.InfoWindow({
+        content: contentString1
+    });
+    var position2 = new google.maps.LatLng(28.544091,77.126493);
+    var marker2 = new google.maps.Marker({
+        position: position2,
+        map: map,
+        title:"This is the place."
+    });
+    google.maps.event.addListener(marker1, 'click', function() {
+      infowindow.open(map,marker1);
+    });
+    google.maps.event.addListener(marker2, 'click', function() {
+      infowindow1.open(map,marker2);
+    });
+ 
+  }
+ 
+</script>
+</head>
+<body onload="initialize()">
+  <div id="map_canvas" style="width:1380px; height:570px"></div>
+  <a href="index.html"><h1 style="text-align:center;">BACK TO WEBSITE</h1></a>
+</body>
+</html>
